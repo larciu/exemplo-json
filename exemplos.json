@@ -1,0 +1,63 @@
+{
+    "alunos": [
+     {
+      "name": "aluno1", 
+      "email": "aluno1@seduc.com", 
+      "matricula": "1231", 
+      "ano": "3º ANO", 
+      "escola": "escola 1",
+      "turma": "Turma 1",
+      "is_pcd": false
+     },
+ 
+     {
+      "name": "aluno2", 
+      "email": "aluno2@seduc.com", 
+      "matricula": "1232", 
+      "ano": "2º ANO", 
+      "escola": "escola 2",
+      "turma": "Turma 2",
+      "is_pcd": false
+     }
+    ],
+ 
+ 
+    "turmas": [
+     {
+       "turma": "Turma 2",
+           "codigo": "123452",
+       "ano": "2º ANO"			
+     },
+     
+     {
+       "turma": "Turma 1",
+           "codigo": "123451",
+       "ano": "3º ANO"
+     }
+    ],
+ 
+ 
+    "escolas": [
+     {
+       "escola": "ESCOLA 2",
+           "codigo": "1234562"
+     },
+     
+     {
+       "escola": "ESCOLA 1",
+           "codigo": "1234561"
+     }
+    ],
+ 
+ 
+     "anos": [
+     {
+       "nome": "1º ANO"
+     },
+     
+     {
+       "nome": "2º ANO"
+     }
+    ]	  		  			
+ }
+ 
