@@ -40,12 +40,12 @@
     "escolas": [
      {
        "escola": "ESCOLA 2",
-           "codigo": "1234562"
+           "codigo_inep": "1234562"
      },
      
      {
        "escola": "ESCOLA 1",
-           "codigo": "1234561"
+           "codigo_inep": "1234561"
      }
     ],
  
